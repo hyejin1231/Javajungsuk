@@ -1,4 +1,4 @@
-package hello.code;
+package hello.code.ch5;
 
 import java.util.Arrays;
 
